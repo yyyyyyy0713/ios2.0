@@ -1,0 +1,427 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    " %g元优惠券" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%g RMB Coupon"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%g 元クーポン"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " %g元优惠券"
+          }
+        }
+      }
+    },
+    " 已优惠¥%g" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Already discounted ¥%g"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " 已优惠¥%g"
+          }
+        }
+      }
+    },
+    "* 非营业时间如需配送，请联系 " : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "* If you need delivery after non-business hours, please contact"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "* 非营业时间如需配送，请联系 "
+          }
+        }
+      }
+    },
+    "%@" : {
+
+    },
+    "%@  %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@  %2$@"
+          }
+        }
+      }
+    },
+    "%@°  /   %@°" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@°  /   %2$@°"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld / %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld / %2$lld"
+          }
+        }
+      }
+    },
+    "⇦ 上一条" : {
+
+    },
+    "🏆 恭喜成为第 1 位社员  🎊  🎉" : {
+
+    },
+    "🐈 登录使用～" : {
+
+    },
+    "Hello, World!" : {
+
+    },
+    "OK" : {
+
+    },
+    "Search" : {
+
+    },
+    "User Profile" : {
+
+    },
+    "Welcome 🎉" : {
+
+    },
+    "下一条 ⇨" : {
+
+    },
+    "全选" : {
+
+    },
+    "关联身份" : {
+
+    },
+    "删除" : {
+
+    },
+    "动态发布中..." : {
+
+    },
+    "发布" : {
+
+    },
+    "发布中，请稍候" : {
+
+    },
+    "发布成功！🎉 " : {
+
+    },
+    "发送中..." : {
+
+    },
+    "取消" : {
+
+    },
+    "名称" : {
+
+    },
+    "图片上传中，请稍作等待..." : {
+
+    },
+    "头像" : {
+
+    },
+    "好的" : {
+
+    },
+    "已发送 %llds" : {
+
+    },
+    "当前为 %@ 系列" : {
+
+    },
+    "性别" : {
+
+    },
+    "您也可以输入城市区域，比如 西湖" : {
+
+    },
+    "我" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "私"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "我"
+          }
+        }
+      }
+    },
+    "描述..." : {
+
+    },
+    "描述一下自己吧..." : {
+
+    },
+    "日期" : {
+
+    },
+    "是否删除 %@ ?" : {
+
+    },
+    "更新中..." : {
+
+    },
+    "本操作仅删除  %@（%@），不会删除与%@相关联的爱宠说。" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This operation will only delete %1$@(%2$@) and will not delete the pet stories associated with %3$@."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本操作仅删除  %1$@（%2$@），不会删除与%3$@相关联的爱宠说。"
+          }
+        }
+      }
+    },
+    "欢迎加入猫猫社区！" : {
+
+    },
+    "注册 / 登录" : {
+
+    },
+    "添 加" : {
+
+    },
+    "点击下方  +  可以发布说说哈 😜" : {
+
+    },
+    "点击右上角  +  可以添加身份哈 😜" : {
+
+    },
+    "爱宠信息（必填）" : {
+
+    },
+    "爱宠说" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Note"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "注記"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "爱宠说"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "愛寵說"
+          }
+        }
+      }
+    },
+    "猫与猫寻" : {
+
+    },
+    "猫咪趣闻" : {
+
+    },
+    "生日" : {
+
+    },
+    "电子邮箱" : {
+
+    },
+    "登录中..." : {
+
+    },
+    "确定" : {
+
+    },
+    "社区" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "COM"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "共同体"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "社区"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "社群"
+          }
+        }
+      }
+    },
+    "类目" : {
+
+    },
+    "编辑" : {
+
+    },
+    "编辑爱宠" : {
+
+    },
+    "编辑身份" : {
+
+    },
+    "自由空间" : {
+
+    },
+    "获取验证码" : {
+
+    },
+    "说点什么吧～" : {
+
+    },
+    "说说" : {
+
+    },
+    "请输入猫猫名称" : {
+
+    },
+    "请输入身份名称" : {
+
+    },
+    "身份" : {
+
+    },
+    "身份信息（必填）" : {
+
+    },
+    "身份列表" : {
+
+    },
+    "身份添加中..." : {
+
+    },
+    "输入城市名称，比如 杭州 或 Hangzhou" : {
+
+    },
+    "返回" : {
+
+    },
+    "进入社区" : {
+
+    },
+    "退出登录" : {
+
+    },
+    "选择卡片背景" : {
+
+    },
+    "选择城市" : {
+
+    },
+    "重试" : {
+
+    },
+    "首页" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Home"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホーム"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "首页"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "首頁"
+          }
+        }
+      }
+    },
+    "验证码" : {
+
+    }
+  },
+  "version" : "1.0"
+}
